@@ -80,11 +80,11 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
-      - image: pic02.jpg
+      - image: aboutme.jpg
+        subtitle: Learn something about me
+        title: Shirley Wan
+        url: blogs/aboutme
+      - image: sz01.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
         url: blogs/tempus
