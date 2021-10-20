@@ -24,6 +24,6 @@ I travelled there with my friend Zoe Zhou. We visited the Museum of Suzhou, the 
 It was spring and everything was amazing. 
 Jiangnan in our culture is the symbol for story. Hope you can find some stories from my pics.
 
-![Me in Suzhou ancient garden](https://github.com/Xueyu12/my_website/blob/main/static/img/blogs/trip11.jpg)
+![Me in Suzhou ancient garden](https://github.com/Xueyu12/my_website/blob/main/static/img/blogs/sz02.jpg)
 
-![Me in Suzhou ancient town](![Me in Suzhou](https://github.com/Xueyu12/my_website/blob/main/static/img/blogs/trip11.jpg))
+![Me in Suzhou ancient town](https://github.com/Xueyu12/my_website/blob/main/static/img/blogs/sz03.jpg)
