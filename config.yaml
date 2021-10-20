@@ -88,22 +88,22 @@ params:
         subtitle: Traditonal Jiangnan Water Town
         title: Journey in Suzhou
         url: blogs/suzhou
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+      - image: resume.jpg
+        subtitle: My working experience
+        title: Resume
+        url: blogs/resume
+      - image: canada.jpg
+        subtitle: London, Toronto, Montreal, Quebec, Vancuvour
+        title: Exchange in Canada
+        url: blogs/canada
+      #- image: pic05.jpg
+       # subtitle: Ipsum Dolor Sit Amet
+        #title: Consequat
+        #url: blogs/ipsum
+      #- image: pic06.jpg
+       # subtitle: Feugiat Amet Tempus
+        #title: Etiam
+        #url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
